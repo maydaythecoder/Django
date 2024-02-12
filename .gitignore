@@ -1,0 +1,11 @@
+.idea
+.venv
+__pycache__
+.pytest_cache
+.DS_Store
+.task
+.secrets
+static/**/*
+.env
+node_modules
+.DS_Store
